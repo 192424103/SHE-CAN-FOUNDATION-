@@ -1,0 +1,6 @@
+{
+  "name": "She Can Foundation Contact Form",
+  "description": "A simple, modern, and responsive contact form website for the She Can Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
